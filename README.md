@@ -29,9 +29,26 @@ Nucleic Acids Res. 2017 Jan 4;45(D1):D535-D542. doi: 10.1093/nar/gkw1017. Epub 2
 https://doi.org/10.1186/1471-2164-15-308
 
 [PathogenSeq - LSHTM](http://pathogenseq.lshtm.ac.uk/)  - **WGS & Omics**
-> Use of WGS and Omics to better understand the biology and behaviour of Mycobacterium tuberculosis
 
-* Poly TB - Web-based resource designed to explore Mycobacterium tuberculosis complex (MTBC) genomic variation at a global scale.
+*Use of WGS and Omics to better understand the biology and behaviour of Mycobacterium tuberculosis*
+
+* Poly TB - Web-based resource designed to explore Mycobacterium tuberculosis complex (MTBC) genomic variation at a global scale.  
+* Global Drug Resistance Study - A study to investigate drug resistance in Mycobacterium tuberculosis (Mtb).  
+* Karonga Diversity Study - Karonga Diversity Study  
+* Kampala Study - Analysis of the genome of 51 clinical isolates of M. tuberculosis including drug resistant strains and longitudinal samples from individual patients from Kampala.  
+* TDR TB Strain Bank - The Strain Bank is a collection of well characterized strains of M. tuberculosis that are available to the TB research community
+* Rapid DR Study - Web tool that rapidly analyses raw sequence data and predicts resistance and lineage in M. tuberculosis.  
+* Molecular Barcode - SNP barcode for typing Mycobacterium tuberculosis.  
+* PhyTB - Web-based tool to assist phylogenetic tree visualisation and identification of M. tuberculosis clade-informative polymorphisms.  
+* M.aurum - The draft genome of Mycobacterium aurum, a potential model organism for investigating drugs against Mycobacterium tuberculosis and Mycobacterium leprae  
+* PE/PPE - PE/PPE gene diversity project  
+* Sequencing Variability - Mtb sequencing variability project  
+* Philippines TB Drug resistance study - Whole genome sequencing to detect durg resistance in the Philippines
+* Detecting mixed TB infections  
+* Karonga Methylation study - Karonga integrated DNA-RNA-Methylation study  
+* Mtb integrated ‘omics - An integrated ‘omics investigation of M. tuberculosis lineages  
+* TB host-pathogen analysis - TB Host-pathogen genetic interactions using genome-to-genome analysis  
+* Thailand - TB - Thailand TB drug resistance outbreak study
 
 [tbvar | Mycobacterium tuberculosis Variome Resource](http://genome.igib.res.in/tbvar/index.html)  - **TB Variome**    
 
@@ -41,11 +58,11 @@ https://doi.org/10.1186/1471-2164-15-308
 
 ### Drug-related Databases
 [MtbVeb: A web portal for designing vaccine for mycobacterium tuberculosis](http://crdd.osdd.net/raghava/mtbveb/index.php) - **Vaccine Strain Data**  
-> MtbVeb is a web-based platform developed for designing vaccines against existing and emerging strains of mycobacterium tuberculosis. This includes drug resistant and extreme drug resistant M.Tb strains. It also allow users to design vaccines against M.tb using all three appraoches (strain, antigen and epitope based vaccines).
+*MtbVeb is a web-based platform developed for designing vaccines against existing and emerging strains of mycobacterium tuberculosis. This includes drug resistant and extreme drug resistant M.Tb strains. It also allow users to design vaccines against M.tb using all three appraoches (strain, antigen and epitope based vaccines).*
 
->The current version of portal maintain comprehensive genomic information about 59 mycobacterium strains that includes 4 vaccine strains, 6 clinical isolates, drug resistant strains. In this study, we provides comprehensive information in the term of antigenicity of about 178 potential vaccine candidates in each of the strain. 
+*The current version of portal maintain comprehensive genomic information about 59 mycobacterium strains that includes 4 vaccine strains, 6 clinical isolates, drug resistant strains. In this study, we provides comprehensive information in the term of antigenicity of about 178 potential vaccine candidates in each of the strain.*
 
-*Dhanda SK, Vir P, Singla D, Gupta S, Kumar S, Raghava GPS (2016) A Web-Based Platform for Designing Vaccines against Existing and Emerging Strains of Mycobacterium tuberculosis. PLoS ONE 11(4): e0153771*
+>Dhanda SK, Vir P, Singla D, Gupta S, Kumar S, Raghava GPS (2016) A Web-Based Platform for Designing Vaccines against Existing and Emerging Strains of Mycobacterium tuberculosis. PLoS ONE 11(4): e0153771*
 
 [TBDREAM](https://tbdreamdb.ki.se/Info/Default.aspx)  - **TB Drug Resistance Mutations**  
 
