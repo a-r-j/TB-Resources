@@ -1,7 +1,21 @@
 # TB Online Data Resources
-This repository contains a list of online resources and datasets for computational analysis relating to **Mycobacterium tuberculosis**. It is hoped to make this an exhaustive 'living resource'.
+This repository contains a list of online resources and datasets for computational analysis relating to **Mycobacterium tuberculosis**. It is hoped to make this an exhaustive 'living resource'. If you find this resource useful, please share it with your colleagues and consider adding to it!
 
 ## Organisation
+List is structured as follows:  
+```
+1. General Resources
+2. Genomics-related resources  
+3. Proteomics-related resources  
+4. Drug-related resources  
+```  
+
+Entries are formatted as follows:  
+```
+Hyperlink - Resource Name  
+Description of resource contents  
+Reference  
+```
 
 ## General
 [PATRIC](https://patricbrc.org/) - **Pathosystems Resource Integration Center**  
@@ -30,7 +44,7 @@ https://doi.org/10.1186/1471-2164-15-308
 
 [PathogenSeq - LSHTM](http://pathogenseq.lshtm.ac.uk/)  - **WGS & Omics**
 
-*Use of WGS and Omics to better understand the biology and behaviour of Mycobacterium tuberculosis*
+*Collection of tools and data; Use of WGS and Omics to better understand the biology and behaviour of Mycobacterium tuberculosis*
 
 * Poly TB - Web-based resource designed to explore Mycobacterium tuberculosis complex (MTBC) genomic variation at a global scale.  
 * Global Drug Resistance Study - A study to investigate drug resistance in Mycobacterium tuberculosis (Mtb).  
