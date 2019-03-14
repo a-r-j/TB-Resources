@@ -1,4 +1,4 @@
-# TB Online Data Resources
+ # TB Online Data Resources
 This repository contains a list of online resources and datasets for computational analysis relating to **Mycobacterium tuberculosis**. It is hoped to make this an exhaustive 'living resource'. If you find this resource useful, please share it with your colleagues and consider adding to it!
 
 ## Organisation
@@ -84,6 +84,7 @@ https://doi.org/10.1186/1471-2164-15-308
 
 >Sandgren A, Strong M, Muthukrishnan P, Weiner BK, Church GM, Murray MB. (2009) Tuberculosis Drug Resistance Mutation Database. PLoS Med 6(2): e1000002. doi:10.1371/journal.pmed.1000002.
 
+[Collaborative Drug Discovery: Drug Research Informatics](https://www.collaborativedrug.com/)
 ### Proteomics  
 [SInCRe](http://proline.biochem.iisc.ernet.in/sincre/) - Structural Interactome Computational Resource
 
